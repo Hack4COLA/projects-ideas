@@ -1,4 +1,4 @@
-# projects-ideas
+# Project Ideas
 Ideas for projects related to civic hacking, open data, and County data.
 
 | Project Idea | Project contact | Notes |
